@@ -18,3 +18,4 @@ precisamos calcular a área das fazendas de cada pessoa jogadora.
 
 #### O exercício foi desenvolvido a partir do seguinte diagrama UML
 
+![diagramaUML](https://user-images.githubusercontent.com/66654653/186519507-c896afb7-07c6-402e-9fed-4a813a877988.png)
