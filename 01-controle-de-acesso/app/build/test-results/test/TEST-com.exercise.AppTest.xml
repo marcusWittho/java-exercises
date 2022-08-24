@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.exercise.AppTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-08-24T16:55:01" hostname="wittho" time="0.09">
+  <properties/>
+  <testcase name="2 - Menu rejeita opção inválida" classname="com.exercise.AppTest" time="0.037"/>
+  <testcase name="1 - Menu aceita entradas e mostra relatório" classname="com.exercise.AppTest" time="0.052"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
