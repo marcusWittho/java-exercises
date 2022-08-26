@@ -9,6 +9,11 @@ e também a realização da votação e apresentação do resultado final.
     - ./gradlew build
     - java -jar ./app/build/libs/app.jar
 
+### Para rodar os testes automatizados
+  - acessar a pasta 02-sistema-de-votacao
+  - executar os seguintes comandos:
+    - ./gradlew Test
+
 #### Tecnologias:
   - Java 11
   - JUnit
