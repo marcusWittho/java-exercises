@@ -109,7 +109,7 @@ public class App {
 
           gerenciamentoVotacao.votar(cpf, numero);
         }
-      } while (opcaoMenu != 2);
+      } while (opcaoMenu != 3);
     }
   }
 }
