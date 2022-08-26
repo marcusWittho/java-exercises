@@ -6,3 +6,5 @@
 
 #### Exercício 03: [Polimorfismo - Recursos Humanos](https://github.com/marcusWittho/java-exercises/tree/main/02-polimorfismo-recursos-humanos)
 
+#### Exercício 04: [Sistema de Votação](https://github.com/marcusWittho/java-exercises/tree/main/02-sistema-de-votacao)
+
