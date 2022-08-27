@@ -8,3 +8,5 @@
 
 #### Exercício 04: [Sistema de Votação](https://github.com/marcusWittho/java-exercises/tree/main/02-sistema-de-votacao)
 
+#### Exercício 05: [Conversor de .CSV](https://github.com/marcusWittho/java-exercises/tree/main/03-conversor-csv)
+
