@@ -105,16 +105,18 @@ class AppTest {
   @AfterAll
   public static void after() throws IOException {
 
-    for (File folder : pathTest.listFiles()) {
-      for (File file : folder.listFiles()) {
-        file.delete();
+    if (pathTest.exists()) {
+      for (File folder : pathTest.listFiles()) {
+        for (File file : folder.listFiles()) {
+          file.delete();
+        }
       }
+      
+      entriesFolder.delete();
+      outputFolder.delete();
+      
+      pathTest.delete();
     }
-
-    entriesFolder.delete();
-    outputFolder.delete();
-
-    pathTest.delete();
   }
 
   @Test
