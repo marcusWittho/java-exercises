@@ -10,3 +10,4 @@
 
 #### Exercício 05: [Conversor de .CSV](https://github.com/marcusWittho/java-exercises/tree/main/03-conversor-csv)
 
+#### Exercício 06: [Gerador de Senhas](https://github.com/marcusWittho/java-exercises/tree/main/03-gerador-senhas)

@@ -11,7 +11,7 @@ os arquivos com a nova formatação.
     - ./gradlew run
 
 ### Para rodar os testes automatizados
-  - acessar a pasta 02-sistema-de-votacao
+  - acessar a pasta 03-conversor-csv
   - executar os seguintes comandos:
     - ./gradlew Test
 
